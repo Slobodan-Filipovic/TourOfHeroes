@@ -1,3 +1,9 @@
+# Contains:
+   Created the initial application structure using the Angular CLI.
+   Learned that Angular components display data.
+   Used the double curly braces of interpolation to connect app title to app template and display it.
+
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
